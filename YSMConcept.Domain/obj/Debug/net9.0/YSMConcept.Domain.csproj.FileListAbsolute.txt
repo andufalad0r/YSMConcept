@@ -1,0 +1,12 @@
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\bin\Debug\net9.0\YSMConcept.Domain.deps.json
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\bin\Debug\net9.0\YSMConcept.Domain.dll
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\bin\Debug\net9.0\YSMConcept.Domain.pdb
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.AssemblyInfoInputs.cache
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.AssemblyInfo.cs
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.csproj.CoreCompileInputs.cache
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.dll
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\refint\YSMConcept.Domain.dll
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.pdb
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\ref\YSMConcept.Domain.dll
+D:\YSM Concept\backend\YSMConcept.API\YSMConcept.Domain\obj\Debug\net9.0\YSMConcept.Domain.csproj.AssemblyReference.cache
